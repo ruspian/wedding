@@ -406,9 +406,7 @@ body {
     font-size: 0.9rem;
 }
 
-.gift li {
-    border: 1px solid var(--teal);
-}
+
 
 footer {
     padding: 3rem;
